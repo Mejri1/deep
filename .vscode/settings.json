@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "arange",
+        "cmap",
+        "contourf",
+        "coolwarm",
+        "edgecolors",
+        "figsize",
+        "keepdims",
+        "linewidths",
+        "meshgrid",
+        "ncols",
+        "nrows",
+        "randn",
+        "tqdm",
+        "xlabel",
+        "ylabel"
+    ]
+}
